@@ -1,0 +1,2 @@
+# TsunekameRedirect
+つねかめ堂リダイレクトページ
